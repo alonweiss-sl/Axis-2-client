@@ -1,4 +1,4 @@
-package com.itcuties.ws.service;
+/*package com.itcuties.ws.service;
 
 import java.rmi.RemoteException;
 
@@ -184,3 +184,4 @@ public class HighScoreServiceTest {
 		System.out.println("There is "+response.getReturn()+" highscores on the list.");
 	}
 }
+*/
